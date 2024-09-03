@@ -33,7 +33,7 @@ html, body {
     height: 100%;
     width: 13%;
     background-color: white;
-    background-image: url(/anime-style-mythical-dragon-creature.jpg);
+    background-image: url(anime-style-mythical-dragon-creature.jpg);
     background-size: cover;
     background-position: center;
     filter: brightness(.2);
@@ -42,27 +42,27 @@ html, body {
 
 
 .box1 {
-    background-image: url(/beautiful-anime-character-cartoon-scene.jpg);
+    background-image: url(beautiful-anime-character-cartoon-scene.jpg);
 }
 
 .box2 {
-    background-image: url(/floating-island-surrounded-by-fluffy-clouds-beautiful-sunset-chinese-building-generative-ai.jpg);
+    background-image: url(floating-island-surrounded-by-fluffy-clouds-beautiful-sunset-chinese-building-generative-ai.jpg);
 }
 
 .box3 {
-    background-image: url(/mythical-dragon-beast-anime-style.jpg);
+    background-image: url(mythical-dragon-beast-anime-style.jpg);
 }
 
 .box4 {
-    background-image: url(/mythical-dragon-beast-anime-style\ \(1\).jpg);
+    background-image: url(mythical-dragon-beast-anime-style\ \(1\).jpg);
 }
 
 .box5 {
-    background-image: url(/anime-style-mythical-dragon-creature.jpg);
+    background-image: url(anime-style-mythical-dragon-creature.jpg);
 }
 
 .box6 {
-    background-image: url(/floating-island-surrounded-by-fluffy-clouds-beautiful-sunset-chinese-building-generative-ai.jpg);
+    background-image: url(floating-island-surrounded-by-fluffy-clouds-beautiful-sunset-chinese-building-generative-ai.jpg);
 }
 
 .box:hover {
